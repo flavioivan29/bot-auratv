@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const IPTV_URL = "http://zonacero.lat:8080/get.php?username=NOVA73R45&password=rEpYABmMbDMw&type=m3u_plus";
-const JSONBIN_ID = "69e8cb4236566621a8dd85a8"; 
+const JSONBIN_ID = "6ac19de4ffd5d160534ab6e1";
 const JSONBIN_MASTER_KEY = "$2a$10$5T6xpO62IpSN1VJp5x0pQO8lUna4ew3PbmUPU10sCTJuC2chh8T3i"; 
 
 const regexFormatoSerie = /\b(S\d+E\d+|temporada|temp|t\d+|capitulo|cap)\b/i;
