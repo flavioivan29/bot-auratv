@@ -23,7 +23,7 @@ jobs:
       - name: Ejecutar bot de sincronización
         run: node sincronizar.js
 
-      - name: Forzar limpieza total de nombres duplicados
+      - name: Limpiar archivos antiguos o con tilde si quedaran
         run: |
           rm -f "películas.json"
           git rm -f "películas.json" || true
@@ -31,6 +31,6 @@ jobs:
       - name: Autocommit del nuevo archivo JSON
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🤖 Actualización automática limpia"
-          file_pattern: peliculas.json
+          commit_message: "🤖 Actualización automática de cartelera"
+          file_pattern: cartelera.json
           skip_ci: true
