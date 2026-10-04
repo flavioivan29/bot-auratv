@@ -64,8 +64,9 @@ async function ejecutarSincronizacion() {
             series: [] 
         };
 
-        // Guardar archivo JSON local limpio y sin tilde
-        fs.writeFileSync('peliculas.json', JSON.stringify(payload, null, 2), 'utf-8');
+        // Forzar codificación estricta en ASCII plano para evitar normalización de caracteres en GitHub
+        const nombreArchivoLimpio = Buffer.from('peliculas.json', 'ascii').toString();
+        fs.writeFileSync(nombreArchivoLimpio, JSON.stringify(payload, null, 2), { encoding: 'utf-8', flag: 'w' });
 
         console.log("¡Archivo peliculas.json generado con éxito!");
         process.exit(0);
