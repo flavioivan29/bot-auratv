@@ -16,9 +16,10 @@ async function ejecutarSincronizacion() {
             const linea = lineas[i].trim();
             if (linea.startsWith('#EXTINF:')) {
                 const groupMatch = linea.match(/group-title="([^"]+)"/);
-                const grupo = groupMatch ? groupMatch[1] : "Otros";
+                const grupo = groupMatch ? groupMatch[1] : "Películas";
                 const grupoMin = grupo.toLowerCase();
                 
+                // Ignorar canales en vivo y series
                 if (grupoMin.includes('en vivo') || grupoMin.includes('live') || 
                     grupoMin.includes('tv') || grupoMin.includes('canales') || 
                     grupoMin.includes('deportes') || grupoMin.includes('sport') ||
@@ -30,6 +31,7 @@ async function ejecutarSincronizacion() {
                 const nombre = partes[partes.length - 1].trim();
                 const nombreMin = nombre.toLowerCase();
 
+                // FILTRO ESTRICTO: Solo permite películas de 2025 o 2026 en el título o en la categoría
                 const es2025_2026 = nombre.includes('2025') || nombre.includes('2026') || grupo.includes('2025') || grupo.includes('2026');
                 if (!es2025_2026) continue;
 
@@ -46,10 +48,11 @@ async function ejecutarSincronizacion() {
                         if (!vistos.has(nombreMin)) {
                             vistos.add(nombreMin);
                             peliculas.push({
-                                titulo: nombre,
-                                categoria: grupo,
-                                poster: poster,
-                                url_video: urlVideo
+                                name: nombre,         // Clave correcta para Android
+                                category: grupo,      // Clave correcta para Android
+                                logo: poster,         // Clave correcta para Android
+                                url: urlVideo,        // Clave correcta para Android
+                                type: "movie"
                             });
                         }
                     }
@@ -57,17 +60,16 @@ async function ejecutarSincronizacion() {
             }
         }
 
-        console.log(`🎬 Películas filtradas encontradas: ${peliculas.length}. Guardando localmente...`);
+        console.log(`🎬 Películas de 2025/2026 encontradas: ${peliculas.length}. Guardando localmente...`);
 
         const payload = {
-            peliculas: peliculas,
-            series: [] 
+            channels: [], 
+            movies: peliculas  // Clave "movies" que lee tu app Android
         };
 
-        // Guardar estrictamente como cartelera.json para evitar conflictos de caché e historial
         fs.writeFileSync('cartelera.json', JSON.stringify(payload, null, 2), 'utf-8');
 
-        console.log("¡Archivo cartelera.json generado con éxito!");
+        console.log("¡Archivo cartelera.json generado con éxito con los filtros de 2025-2026!");
         process.exit(0);
     } catch (error) {
         console.error("❌ Error durante la sincronización:", error.message);
