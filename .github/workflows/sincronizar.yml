@@ -23,6 +23,11 @@ jobs:
       - name: Ejecutar bot de sincronización
         run: node sincronizar.js
 
+      - name: Forzar eliminación del archivo con tilde
+        run: |
+          rm -f "películas.json"
+          git rm -f "películas.json" || true
+
       - name: Autocommit del nuevo archivo JSON
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
