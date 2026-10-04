@@ -64,11 +64,10 @@ async function ejecutarSincronizacion() {
             series: [] 
         };
 
-        // Forzar codificación estricta en ASCII plano para evitar normalización de caracteres en GitHub
-        const nombreArchivoLimpio = Buffer.from('peliculas.json', 'ascii').toString();
-        fs.writeFileSync(nombreArchivoLimpio, JSON.stringify(payload, null, 2), { encoding: 'utf-8', flag: 'w' });
+        // Guardar estrictamente como cartelera.json para evitar conflictos de caché e historial
+        fs.writeFileSync('cartelera.json', JSON.stringify(payload, null, 2), 'utf-8');
 
-        console.log("¡Archivo peliculas.json generado con éxito!");
+        console.log("¡Archivo cartelera.json generado con éxito!");
         process.exit(0);
     } catch (error) {
         console.error("❌ Error durante la sincronización:", error.message);
