@@ -22,3 +22,9 @@ jobs:
 
       - name: Ejecutar bot de sincronización
         run: node sincronizar.js
+
+      - name: Autocommit del nuevo archivo JSON
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 Actualización automática de cartelera peliculas.json"
+          file_pattern: peliculas.json
