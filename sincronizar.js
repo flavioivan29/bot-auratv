@@ -64,7 +64,7 @@ async function ejecutarSincronizacion() {
             series: [] 
         };
 
-        // Guardar archivo JSON local en el repositorio
+        // Guardar archivo JSON local limpio y sin tilde
         fs.writeFileSync('peliculas.json', JSON.stringify(payload, null, 2), 'utf-8');
 
         console.log("¡Archivo peliculas.json generado con éxito!");
