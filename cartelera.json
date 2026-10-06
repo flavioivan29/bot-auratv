@@ -2,6 +2,34 @@
   "channels": [],
   "movies": [
     {
+      "name": "Vertigo 2: Punto muerto (CAM) (2026)",
+      "category": "▶️ CINE 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479127.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "El corazon de la bestia (CAM) (2026)",
+      "category": "▶️ CINE 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVDHPDggier9ciMc8Xglinq1jWv.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479113.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Spider-Man: Un nuevo dia (2026)",
+      "category": "▶️ CINE 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479109.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "La noche del demonio: Estan entre nosotros (2026)",
+      "category": "▶️ CINE 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icc5Tjg14CZH94b0CDBQ2PP8YjH.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479108.mp4",
+      "type": "movie"
+    },
+    {
       "name": "Zona Cero (BR-S) (2026)",
       "category": "▶️ CINE 2026",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
@@ -156,7 +184,7 @@
       "type": "movie"
     },
     {
-      "name": "La Odisea (2026)",
+      "name": "La Odisea (BR-S) (2026)",
       "category": "▶️ CINE 2026",
       "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mKPGRRyXIwN8JOLhAbWnxV1gNrS.jpg",
       "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/466466.mp4",
@@ -482,6 +510,146 @@
       "category": "▶️ CINE 2026",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfgquGqeT6DtdsIzPPzTLRABBy0.jpg",
       "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/442213.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Cable Mortal (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLMHUOQ4mCMxePMbv0TIVB48zfe.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479105.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Volver a los 17 (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/etzThCbeYmZnfmO7f7KpzQ64xSW.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479104.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "The Widower: 'Til Death Do Us Part (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479103.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Siete francotiradores (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VypkhG0LlvIzt26K4nYDEJr1qq.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479102.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Schumacher ’94 – Nace una leyenda (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTup4U76sGi5om7BUiMYwKWHvvl.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479101.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Kangaroo Kids (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/30GHSNGwsR1JLVsLGyLj7N7VcfX.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479100.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Ricos sin dinero (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bATrCc4HVGOkJyPb0GzEnBJrNQ0.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479099.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Padre de familia Happy Hell-o-ween (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHIq3DbkglpVgVrS5rvrLtxbLTd.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479098.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "No dejes a los niños solos (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxg1sLzG0TJRDPSNU6AmR4wR4Ce.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479097.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Mononoke III: La maldicion de la serpiente (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479095.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Mallorca confidencial (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8EK0Z5or4XIsCOzAruN6hutq78.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479094.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Las chicas solo quieren venganza (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1Pwk8HPWKjtUnqgGbbdjGe37rh.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479093.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Las cartas de la vida (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479092.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "La tarta del presidente (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zfQ8eanWwkFA6S3YhZWle7jp75.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479091.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "La negociacion (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3jwAo3eqhfjcqwaztGXUfRk8aJ.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479090.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Ivan y Hadoum (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9E0fCDOQxlo28jb0UZCxlilwfhk.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479088.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Este melancolico y maravilloso mundo (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2aKZNUMlFsQ5ZaRylqsGU3ftKKI.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479087.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "En vivo desde el infierno (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UYm1w6shyYyqFGsry2JMaq56K2.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479086.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "El hombre que desafio al rey (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2qc3mE7V8R7yAXBBB822mVZblo.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479085.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Dos dias (2026)",
+      "category": "▶️ VOD 2026",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A61TrD9ai6Wnqn2vCRPZamE2LPh.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479084.mp4",
       "type": "movie"
     },
     {
@@ -1623,13 +1791,6 @@
       "category": "▶️ VOD 2026",
       "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/wy4iePZQ828wuzaXV1T3gYJwjaQ.jpg",
       "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/451787.mp4",
-      "type": "movie"
-    },
-    {
-      "name": "Siete francotiradores (2026)",
-      "category": "▶️ VOD 2026",
-      "logo": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/1VypkhG0LlvIzt26K4nYDEJr1qq.jpg",
-      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/451786.mp4",
       "type": "movie"
     },
     {
@@ -3506,6 +3667,55 @@
       "category": "▶️ CINE 2025",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsfOvNfUGogZGfSDfMN4hCOM1kR.jpg",
       "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/346371.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Me vuelves loco (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s42X4sEKtQJfLu3tps2vPMjgjrh.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479081.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Verdad y traicion (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjMfcwUsNg7TDISVPJOTToQLgN8.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479080.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Renoir (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4httvpEnuPMy96dsg3gZabl94AW.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479079.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Recreacion de un asesinato (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HgiDcR5qlpLQ2I9GSr1G1xzlPU.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479078.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "La coleccionista (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GHxs989obQTcHbmhI7a4fnUOdo.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479077.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "La casa en el arbol (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gogohugn7XWmDoaUewGh0H7ipG9.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479076.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Asistente virtual (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lniBd0rTtCMi0g4rQL9liHoBGq3.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/479075.mp4",
       "type": "movie"
     },
     {
