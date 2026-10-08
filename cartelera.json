@@ -5805,13 +5805,6 @@
       "type": "movie"
     },
     {
-      "name": "Marie (2025)",
-      "category": "▶️ VOD 2025",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/422771.mp4",
-      "type": "movie"
-    },
-    {
       "name": "Day of Reckoning (2025)",
       "category": "▶️ VOD 2025",
       "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
@@ -8917,6 +8910,13 @@
       "category": "▶️ VOD 2025",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLuBrKa6jFpKRQERf0rMDCO8uCU.jpg",
       "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/400137.mp4",
+      "type": "movie"
+    },
+    {
+      "name": "Marie (2025)",
+      "category": "▶️ VOD 2025",
+      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1StuHj1FXP0SbRGuGOkn4QKEZIz.jpg",
+      "url": "https://velive.lat:443/movie/NOVA73R45/rEpYABmMbDMw/400136.mp4",
       "type": "movie"
     },
     {
