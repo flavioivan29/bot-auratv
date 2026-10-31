@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clonar repositorio
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configurar Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Instalar dependencias (axios)
         run: npm install axios
@@ -29,7 +29,7 @@ jobs:
           git rm -f "películas.json" || true
 
       - name: Autocommit del nuevo archivo JSON
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Actualización automática de cartelera"
           file_pattern: cartelera.json
