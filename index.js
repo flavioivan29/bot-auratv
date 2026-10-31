@@ -3,7 +3,7 @@ const axios = require('axios');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const IPTV_URL = "http://zonacero.lat:8080/get.php?username=NOVA73R45&password=rEpYABmMbDMw&type=m3u_plus";
+const IPTV_URL = "http://juancs.streaminc.biz:8691/get.php?username=demopad1&password=7awYvMAJDMzJ&type=m3u_plus";
 
 // Credenciales configuradas de JSONBin
 const JSONBIN_ID = "69e8cb4236566621a8dd85a8"; 
