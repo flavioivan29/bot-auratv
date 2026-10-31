@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const IPTV_URL = "http://moretv.online:8080/get.php?username=Antonio2323&password=Antonio2323&type=m3u_plus";
+const IPTV_URL = "http://livetv-plus.com:2082/get.php?username=Fabianlopez&password=VFEPV&type=m3u_plus";
 const regexFormatoSerie = /\b(S\d+E\d+|temporada|temp|t\d+|capitulo|cap)\b/i;
 
 async function ejecutarSincronizacion() {
