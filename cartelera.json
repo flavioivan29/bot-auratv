@@ -1,33 +1,4 @@
 {
   "channels": [],
-  "movies": [
-    {
-      "name": "XXX VOD 2025",
-      "category": "Películas",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "https://xc.adultiptv.net/movie/123456/123456/2025.m3u8",
-      "type": "movie"
-    },
-    {
-      "name": "XXX VOD 2026",
-      "category": "Películas",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "https://xc.adultiptv.net/movie/123456/123456/2026.m3u8",
-      "type": "movie"
-    },
-    {
-      "name": "XXX VOD 12025",
-      "category": "Películas",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "https://xc.adultiptv.net/movie/123456/123456/12025.m3u8",
-      "type": "movie"
-    },
-    {
-      "name": "XXX VOD 12026",
-      "category": "Películas",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "https://xc.adultiptv.net/movie/123456/123456/12026.m3u8",
-      "type": "movie"
-    }
-  ]
+  "movies": []
 }
