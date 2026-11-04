@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const IPTV_URL = "http://maxi.goldmaxiptv.com:2086/get.php?username=@ozkankarakaya&password=248CRk62Tu&type=m3u_plus&output=mpegts";
+const IPTV_URL = "http://server.iptvxxx.net/get.php?username=3851108&password=1964113&type=m3u_plus&output=mpegts";
 const regexFormatoSerie = /\b(S\d+E\d+|temporada|temp|t\d+|capitulo|cap)\b/i;
 
 async function ejecutarSincronizacion() {
