@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const IPTV_URL = "http://superxlatino.com:8880/get.php?username=patricio712@8874&password=913729382920&type=m3u_plus";
+const IPTV_URL = "http://188.165.117.112:8000/get.php?username=HakanKara01&password=XGuSAvs5Kc&type=m3u_plus&output=mpegts";
 const regexFormatoSerie = /\b(S\d+E\d+|temporada|temp|t\d+|capitulo|cap)\b/i;
 
 async function ejecutarSincronizacion() {
