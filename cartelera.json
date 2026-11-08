@@ -2,6 +2,153 @@
   "channels": [],
   "movies": [
     {
+      "name": "Una Historia de Derry (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738594.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "En el corazón de la bestia (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738593.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "El corazón de la bestia (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738592.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Sensatez y sentimiento (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738591.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Saltamontes (2025)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738590.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Resident Evil: Noche cero (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738589.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Mi mejor amiga (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738588.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "La razón de estar contigo: Una Navidad perfecta (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738587.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "La mangosta (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738586.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "La ladrona solitaria (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738585.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Juego de traiciones (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738584.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "El vestido (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738583.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "El árbol mágico (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738582.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Alta Gama: El Caso Relojes (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738581.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Resident Evil: Noche cero (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738580.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Mi mejor amiga (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738579.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "La razón de estar contigo: Una Navidad perfecta (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738578.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "La mangosta (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738577.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "La ladrona solitaria (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738576.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Nightborn (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738575.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "El vestido (CAST.) (2026)",
+      "category": "ESTRENOS 2026 - (CAST)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738574.mkv",
+      "type": "movie"
+    },
+    {
       "name": "El paseo 8 (2025)",
       "category": "ESTRENOS 2026 - (LAT)",
       "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
@@ -993,13 +1140,6 @@
       "category": "ESTRENOS 2026 - (LAT)",
       "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
       "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1723005.mkv",
-      "type": "movie"
-    },
-    {
-      "name": "Resident Evil: Noche cero (2026)",
-      "category": "CINE CAM - (LAT)",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1723002.mkv",
       "type": "movie"
     },
     {
