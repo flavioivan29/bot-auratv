@@ -2,6 +2,27 @@
   "channels": [],
   "movies": [
     {
+      "name": "Schumacher 94 Nace una leyenda (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738602.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Angel y el Pistolero (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738599.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Hazte el muerto (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738598.mkv",
+      "type": "movie"
+    },
+    {
       "name": "Una Historia de Derry (2026)",
       "category": "ESTRENOS 2026 - (LAT)",
       "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
@@ -69,13 +90,6 @@
       "category": "ESTRENOS 2026 - (LAT)",
       "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
       "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738585.mkv",
-      "type": "movie"
-    },
-    {
-      "name": "Juego de traiciones (2026)",
-      "category": "ESTRENOS 2026 - (LAT)",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1738584.mkv",
       "type": "movie"
     },
     {
