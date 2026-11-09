@@ -2,6 +2,20 @@
   "channels": [],
   "movies": [
     {
+      "name": "La noche del demonio: Están entre nosotros (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1739047.mkv",
+      "type": "movie"
+    },
+    {
+      "name": "Spider-Man: Un nuevo día (2026)",
+      "category": "ESTRENOS 2026 - (LAT)",
+      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
+      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1739046.mkv",
+      "type": "movie"
+    },
+    {
       "name": "Schumacher 94 Nace una leyenda (2026)",
       "category": "ESTRENOS 2026 - (LAT)",
       "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
@@ -902,20 +916,6 @@
       "category": "ESTRENOS 2026 - (LAT)",
       "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
       "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1726063.mkv",
-      "type": "movie"
-    },
-    {
-      "name": "Spider-Man: Brand New Day (2026)",
-      "category": "ESTRENOS 2026 - (LAT)",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1726062.mkv",
-      "type": "movie"
-    },
-    {
-      "name": "La noche del demonio: Están entre nosotros (2026)",
-      "category": "ESTRENOS 2026 - (LAT)",
-      "logo": "https://via.placeholder.com/300x450?text=Sin+Poster",
-      "url": "http://mallorca.plus/movie/Sebastian62/Sebastian62/1726061.mkv",
       "type": "movie"
     },
     {
