@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const IPTV_URL = "http://lucidhosting.xyz:82/get.php?username=Twsparks@att.net&password=oRT7Xcve&type=m3u_plus";
+const IPTV_URL = "http://trekronor.tv:2095/get.php?username=wkPkTF0H&password=jwaKcFw&type=m3u_plus";
 const regexFormatoSerie = /\b(S\d+E\d+|temporada|temp|t\d+|capitulo|cap)\b/i;
 
 async function ejecutarSincronizacion() {
